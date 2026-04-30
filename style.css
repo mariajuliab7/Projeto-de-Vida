@@ -10,7 +10,7 @@
 }
 
 body {
-  background: url('img/vida.jpg') no-repeat center center;
+  background: url('img/vida.jpg') no-repeat center;
   background-size: cover;
   color: var(--branco);
   font-family: "Chakra Petch", sans-serif;
