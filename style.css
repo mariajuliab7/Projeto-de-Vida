@@ -10,9 +10,10 @@
 }
 
 body {
-  background: url('img/vida.jpg');
+  background: url('img/vida.jpg') no-repeat center center;
   color: var(--branco);
   font-family: "Chakra Petch", sans-serif;
+
 }
 
 .conteudo-principal {
